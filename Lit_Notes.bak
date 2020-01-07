@@ -1,0 +1,16 @@
+% Encoding: UTF-8
+
+@Article{Cavalcante2009,
+  author    = {P.M.T. Cavalcante and M. Dondi and G. Guarini and M. Raimondo and G. Baldi},
+  journal   = {Dyes and Pigments},
+  title     = {Colour performance of ceramic nano-pigments},
+  year      = {2009},
+  month     = {feb},
+  number    = {2},
+  pages     = {226--232},
+  volume    = {80},
+  doi       = {10.1016/j.dyepig.2008.07.004},
+  publisher = {Elsevier {BV}},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

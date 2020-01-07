@@ -1,0 +1,1184 @@
+% Encoding: UTF-8
+
+@Article{Cavalcante2009,
+  author    = {P.M.T. Cavalcante and M. Dondi and G. Guarini and M. Raimondo and G. Baldi},
+  journal   = {Dyes and Pigments},
+  title     = {Colour performance of ceramic nano-pigments},
+  year      = {2009},
+  month     = {feb},
+  note      = {CoAl_24, cyanCyanAu, magentaYellow (Ti,Cr,Sb)O_2, yellowYellowCoFe_2O_4, Black},
+  number    = {2},
+  pages     = {226--232},
+  volume    = {80},
+  comment   = {• Black CoFe$_2$O$_4$: a spinel (inverse) structure with Co$^{2+}$ in \textbf{both} tetrahedral and octahedral sites
+
+• ``Extensive Co-O and Fe-O charge transfers, together with d-d electron transitions of Co$^{2+}$ and Fe$^{3+}$ in multiple coordination, ensure the full absorption of the visible spectrum''
+
+• Structure stable from 800--1200$^\circ$C (albeit with a growth in crystallite size from 20 to ~250 nm)
+
+• Fast growth in size in glassy coatings but prevented in glazes (persists in 20-40 nm range)
+
+• Black colour gets darker (without regular trend) with temperature (expressed in CIELAB color space by L* parameter)},
+  doi       = {10.1016/j.dyepig.2008.07.004},
+  file      = {:Colour_Nano_Pigments:},
+  groups    = {Spinels, Co, Al, Fe, Oxides, Coloured Pigments},
+  publisher = {Elsevier {BV}},
+  relevance = {7},
+  synopsis  = {Cyan, yellow and black pigments with TM oxide structures},
+  systems   = {| CoAl$_2$O$_4$ ; Cyan | Au; Magenta | (Ti,Cr,Sb)O$_2$; Yellow | CoFe$_2$O$_4$; Black |},
+}
+
+@Article{Schleder2019,
+  author    = {Gabriel R Schleder and Antonio C M Padilha and Carlos Mera Acosta and Marcio Costa and Adalberto Fazzio},
+  journal   = {Journal of Physics: Materials},
+  title     = {From {DFT} to machine learning: recent approaches to materials science{\textendash}a review},
+  year      = {2019},
+  month     = {may},
+  number    = {3},
+  pages     = {032001},
+  volume    = {2},
+  comment   = {• Chapter 2 talks in sufficient detail about the basics of the 3 computational methods
+
+• Section 3 mentions for HT: High-entropy alloys (HEAs), Thermoelectric Materials, Optoelectronics, Topological Materials and 2D materials
+
+• Section 3 discusses for ML: Formation Energies, Crystal Structure Prediction/Stability, Lattice Symmetries, Vibrational Free Energies/Entropies, Interatomic Force Constants, Atomistic Potentials, Perovskites, Ordered/Disordered Oxides
+
+using 
+
+Artificial Neural Networks (ANN), Neural-Network-Based Genetic Algorithm (NBGA), kernel ridge regression, Gaussian Approximation Potentials.},
+  doi       = {10.1088/2515-7639/ab084b},
+  file      = {:DFT_ML_REVIEW:},
+  groups    = {Property Calculations},
+  publisher = {{IOP} Publishing},
+  relevance = {9},
+  synopsis  = { A great general review on DFT, HT and ML calculations in the context of materials research.},
+  systems   = {None Specific; DFT, HT and ML techniques discussed throughly before research examples (if somewhat not relevant me) are presented},
+}
+
+@Article{Kim2018,
+  author    = {Jong Uk Kim and Sori Lee and Seung Ji Kang and Tae-il Kim},
+  journal   = {Nanoscale},
+  title     = {Materials and design of nanostructured broadband light absorbers for advanced light-to-heat conversion},
+  year      = {2018},
+  number    = {46},
+  pages     = {21555--21574},
+  volume    = {10},
+  comment   = {• Table 1 shows lots of material and structural design of broadband light absorption with references
+
+• For black pigments in automotive paints, perhaps thermal absorption is not desired
+
+• "In such a solar vapor generation system, input solar light energy is typically divided into four output energies, including: 
+
+(1) optical loss
+stemming from reflectance and transmittance
+
+(2) radiation
+loss from light-to-heat conversion materials
+
+(3) convection
+and conduction heat losses into the underlying water and overlying air through nonradiative energy dissipation
+
+(4) the energy of water evaporation. "
+
+• Paper splits review into carbon-based, semiconductor based, organic and plasmonic metal based materials},
+  doi       = {10.1039/c8nr06024j},
+  file      = {:Design_broadband_absorbers.pdf:PDF},
+  groups    = {Broadband Absorbers},
+  publisher = {Royal Society of Chemistry ({RSC})},
+  relevance = {8},
+  synopsis  = {Review on broadband absorbers for light-to-heat conversion. Broadband absorbtiion is the key here.},
+  systems   = {Non-specific },
+}
+
+@Book{Rao1998,
+  author    = {Rao, Raveau},
+  publisher = {John Wiley \& Sons},
+  title     = {Transition Metal Oxides 2e},
+  year      = {1998},
+  isbn      = {0471189715},
+  comment   = {Starting from pt.2 
+
+•Summary of the reaction of metal oxides to external stimuli examined
+•Main forces responsible are mechanical stress, electric field, magnetic field and temperature
+•Energy bands: allowed
+•Energy gaps: forbidden},
+  date      = {1998-02-27},
+  ean       = {9780471189718},
+  file      = {:Rao_Oxides_1989.pdf:PDF},
+  groups    = {Oxides},
+  pagetotal = {388},
+  relevance = {10},
+  url       = {https://www.ebook.de/de/product/3602664/rao_raveau_transition_metal_oxides_2e.html},
+}
+
+@Article{Li2019,
+  author    = {Meng Li and Tim Gould and Zhong Su and Shunning Li and Feng Pan and Shanqing Zhang},
+  journal   = {Applied Physics Letters},
+  title     = {Electrochromic properties of Li4Ti5O12: From visible to infrared spectrum},
+  year      = {2019},
+  month     = {aug},
+  number    = {7},
+  pages     = {073902},
+  volume    = {115},
+  comment   = {•Intercalation of Li from 4 to 4.25 shows high sensitivity of IR transmittance to intercalation
+
+•"The results reported here theoretically demonstrate that Li4Ti5O12 has excellent properties as a broadband electrochromic material for optical and thermal management."},
+  doi       = {10.1063/1.5099330},
+  file      = {:Li4Ti5O12_Electrochromic.pdf:PDF},
+  groups    = {Oxides, Spinels, Ti, Li},
+  publisher = {{AIP} Publishing},
+  relevance = {6},
+  synopsis  = {DFT study (with VASP) into electrochromic properties of charged and uncharged-state Li$_4$Ti$_5$O$_12$ in visible and IR regions},
+  systems   = {Li$_4$Ti$_5$O$_12$; Li$_7$Ti$_5$O$_12$},
+}
+
+@Article{Gregoire2019,
+  author    = {John Gregoire and Helge Sören Stein},
+  journal   = {Chemical Science},
+  title     = {Progress and prospects for accelerating materials science with automated and autonomous workflows},
+  year      = {2019},
+  comment   = {• A good review highlighting various aspects of automated workflows in materials discovery processes},
+  doi       = {10.1039/c9sc03766g},
+  file      = {:Autonomous_Workflow_Materials.pdf:PDF},
+  groups    = {Property Calculations},
+  publisher = {Royal Society of Chemistry ({RSC})},
+  relevance = {5},
+  synopsis  = {Review on acceleration and automation of materials discvoery},
+  systems   = {N/A},
+}
+
+@Article{Zerarga2011,
+  author    = {F. Zerarga and A. Bouhemadou and R. Khenata and S. Bin-Omran},
+  journal   = {Solid State Sciences},
+  title     = {Structural, electronic and optical properties of spinel oxides {ZnAl}2O4, {ZnGa}2O4 and {ZnIn}2O4},
+  year      = {2011},
+  month     = {aug},
+  number    = {8},
+  pages     = {1638--1648},
+  volume    = {13},
+  comment   = {• Cubic spinels of Fd-3m space group (#227)
+• Energy minimized to volume and and co-ordinate u
+•Size differences between Al, Ga and In affect a$_0$, b$_0$ and b`
+• GW approximation mentioned (but not used as it isnt in WIEN2K) to help improve on underestimated band gap for LDA and GGA
+•GGA-EV used to overcome band gap problem
+•This does come at the expense of inaccurate equilibrium volumes and bulk moduli
+• The compounds have seemingly been also studies computationally for their band gap in the many references provided in page1641 (4)
+•Band gap decreases going down group
+•Ga is indirect gap semiconductor material; Al and In are direct gap materials
+• Total and atomic site predicted density of states (allows for angular moment character of different structures)
+• mixture of covalernt and ionic bonding
+• new structure from 3d-Ga and 4d-In orbitals found in dos spectra 
+•  These orbitals also shown to lower the band gap
+•Metallic character also increases down group
+• Pressure effects on energy gap sizes studied by selected symmetry points at as a function of pressure
+•Calculations predict higher electron mobility in In compound than Al or Ga
+•intra (only important for metals) and inter band transitions affect dielectric
+•interband can also be further split into direct and indirect transitions
+•"In order to calculate the optical properties, one needs to use a dense mesh of uniformly distributed k-points."
+•Calculated e2 give crucial energy points which represent the abvsorption edge between conduction and valance bands
+•predominantly transition from O-p states to unoccupied hybridized Zn-s and Al-p states for ZnAl2O4, Zn-s, Ga-s
+and O-p states for ZnGa2O4 and Zn-s and O-p for ZnIn2O4 states
+• Compression shifts these to high energy comparitive to that at zero pressure
+•Analysis of imaginary part of dielectric function performed to determine origins of features of spectrum
+•Diferent optical spectra stucture directly caused by different band structure
+• top 3 valance to bottom 3 conduction most important
+•Decrease in dielectric constants is linear with in Al, Ga and In
+•Increase in refractive index with descent of table
+•"The electron energy-loss function L(u) is an important factor describing the energy loss of a fast electron traversing in a material"
+•abrupt reduction of r(omega) with periodic table descent
+
+•Note that this is a pretty mistake-full paper so use with caution as it seemingly hasn't been checked throughlly},
+  doi       = {10.1016/j.solidstatesciences.2011.06.016},
+  file      = {:ZnFe2O4_calc_properties:},
+  groups    = {Property Calculations, Oxides, Spinels, Al, Zn, In, Ga},
+  publisher = {Elsevier {BV}},
+  relevance = {10},
+  synopsis  = { Calculated structural, electronic and optical properties of spinel oxides},
+  systems   = {ZnAl$_2$O$_4$, ZnGa$_2$O$_4$, ZnIn$_2$O$_4$},
+}
+
+@Article{Busch1966,
+  author    = {G. Busch and B. Magyar and P. Wachter},
+  journal   = {Physics Letters},
+  title     = {Optical absorption of some ferro- and antiferromagnetic spinels, containing Cr3$\mathplus$-ions},
+  year      = {1966},
+  month     = {nov},
+  number    = {7},
+  pages     = {438--440},
+  volume    = {23},
+  comment   = {•Paper discusses the intertwinned nature of magnetism and absorption for these materials
+•"Since so far only substances containing ions with unfilled 4f-shells have been investigated, it seemed of interest to know whether susbatnces with unfilled 3d- shells show the same effects [of absorption edge proportionallity to magentization]"
+• Cr spinels with M = Zn, Cd, Hg and X = O, S, Se, Te have many recorded magnetic properties
+•The Néel temperature or magnetic ordering temperature, T$_N$, is the temperature above which an antiferromagnetic material becomes paramagnetic
+•The Néel temperature is analogous to the Curie temperature, T$_C$, for ferromagnetic materials
+•CdCr2S4 has energy gap of 1.37 eV at RT
+•Antiferromagnetic ZnCr2Se4},
+  doi       = {10.1016/0031-9163(66)91082-1},
+  file      = {:Cr3+_doped_spinels.pdf:PDF},
+  groups    = {Oxides, Spinels, Zn, Cd, Cr, S-Cr, S-Cd, S-Spinels, Sulfides, Selenides, Se-Cd, Se-Cr, Se-Zn, Se-Spinels},
+  publisher = {Elsevier {BV}},
+  relevance = {8},
+  synopsis  = {The optical absorption of CdCr2S4, CdCr2Se 4 and ZnCr2Se 4 has been measured above and below the magnetic ordering temperatures.},
+  systems   = {CdCr$_2$S$_4$, CdCr$_2$Se$_4$, ZnCr$_2$Se$_4$},
+}
+
+@Article{Hosseini2008,
+  author      = {S. M. Hosseini},
+  journal     = {physica status solidi (b)},
+  title       = {Structural, electronic and optical properties of spinel {MgAl}2O4oxide},
+  year        = {2008},
+  month       = {dec},
+  number      = {12},
+  pages       = {2800--2807},
+  volume      = {245},
+  comment     = {• Calculated properties of MgAl2O4 may be a good starting point for practice calculations as system is well defined
+•Normal, inverse and partially inverse structures have been investigated
+•Mention of relaxation using all-electronic periodic {HF} method
+
+•Sampeth uses the self-consistent tight-binding linearizing muffin-tin orbital method with the atomic sphere approximation; These are things I need to look into
+
+•"Xu and Ching have studied the electronic structure, the charge density distribution and the optical absorption spectra of MgO, α-Al2O3 and MgAl2O4 crystal by the orthogonalized linear combination of atomic orbitals method"
+
+•ab initio {DFT} calculations of raman and {IR} modes cited for normal spinel
+
+•complex dielectric tensor requires a dense mesh of eigenvalues and corresponding eigenvectors
+
+•Good explanation of relationship between power dissipation of EM wave to the imaginary part of the dielectric tensor
+
+• the imaginary part of the dielectric tensor can be
+computed from a knowledge of the electronic band structure
+of a solid from a well-known relation in eqn 6.
+
+•The Kramers–Kronig relations allow calculation of the
+refractive index and other optical constant profiles from
+the frequency-dependent losses
+
+•For the spinel MgAl2O4 structure, the optical properties are isotropic
+
+•The valence bands are separated by a 5.2 eV
+direct gap at Γ-point from the conduction band states.
+
+•The upper valence band is composed mostly of O 2p
+states and hybridized with Mg 3s and Al 3p orbitals
+
+•The
+conduction band has compounds from both Mg 3s and Al
+3p states.},
+  doi         = {10.1002/pssb.200844142},
+  file        = {:MgAl2O4_Calculated_properties.pdf:PDF},
+  groups      = {Property Calculations, Oxides, Spinels, Al, Mg},
+  methods     = {reverse-communication trustregion quasi-Newton method for atomic optimisation; },
+  parameters  = {•1000 kpoints in first brillouin zone},
+  publisher   = {Wiley},
+  relevance   = {10},
+  software    = {wien2k},
+  synopsis    = {The structure, band structure, total density of states, dielectricfunction, reflectivity, refractive index and loss function have been calculated for spinel MgAl2O4 oxide using density functional theory},
+  systems     = {MgAl2O4},
+  theorylevel = {FP-LAPW Method with GGA},
+}
+
+@Article{Strek1988,
+  author    = {W. Str{\k{e}}k and P. Dere{\'{n}} and B. Je{\.{z}}owska-Trzebiatowska},
+  journal   = {Physica B: Condensed Matter},
+  title     = {Optical properties of Cr3$\mathplus$ in {MgAl}2O4 spinel},
+  year      = {1988},
+  month     = {sep},
+  number    = {3},
+  pages     = {379--384},
+  volume    = {152},
+  comment   = {•At low ligand field (Dq/B < 2.3) luminescence for Cr is from lowest T2g energy state and experiences string distortion and wide fluorescence
+
+•At high ligand field (Dq > 2.3) luminsecence for Cr is from lowest Eg state and experiences practically no distortion and narrow fluorescence band},
+  doi       = {10.1016/0921-4526(88)90006-3},
+  file      = {:Cr3+_doped_MgAl2O4.pdf:PDF},
+  groups    = {Oxides, Spinels, Mg, Al, Cr},
+  publisher = {Elsevier {BV}},
+  relevance = {7},
+  synopsis  = {absorption, luminescence and decay time measurements of Cr 3+ insynthetic MgAI2O4 spinel. },
+  systems   = {Cr$^{3+}$-MgAl$_2$O$_4$},
+}
+
+@Article{Fritsch2018,
+  author      = {Daniel Fritsch},
+  journal     = {Journal of Physics: Condensed Matter},
+  title       = {Electronic and optical properties of spinel zinc ferrite: ab initio hybrid functional calculations},
+  year        = {2018},
+  month       = {feb},
+  number      = {9},
+  pages       = {095502},
+  volume      = {30},
+  comment     = {•the inversion parameter λ
+ranging from λ = 0 for the normal to λ = 1 for the so-called
+inverse spinel
+
+•NiFe2O4: Normal (NFO)
+  CoFe2O4: Partly inverse λ = 0.8 (CFO)
+  ZnFe2O4: Inverse (ZFO)
+  
+
+•Both, NFO and CFO, are ferro(i)magnetic (FM) insulators with high Curie temperatures and large
+saturation magnetisations
+
+•With increasing
+inversion degree λ the lattice constants decrease from the
+normal spinel AFM values for both, GGA+U and PBE0 functional calculations
+
+• It can be seen that an increasing inversion degree shifts the
+valence band DOS towards higher energies, and exhibits a
+growing contribution to the tetrahedral Fe and octahedral Zn
+DOS, respectively.},
+  doi         = {10.1088/1361-648x/aaa7c5},
+  file        = {:ZnFe2O4_calc_properties:},
+  groups      = {Oxides, Spinels, Zn, Fe},
+  methods     = {GGA + Hubbard parameter },
+  parameters  = {Ueff = 5.25 eV; forces to 0.001eV ˚A−1; for PBE k point meshes of 8 × 8 × 8 and Ecut = 800 eV; for PBE0 point meshes of 6 × 6 × 6 and Ecut = 500 eV},
+  publisher   = {{IOP} Publishing},
+  relevance   = {8},
+  software    = {VASP },
+  synopsis    = {Influence of inversion parameter on electric, magnetic and optical properties of ZnFe2O4},
+  systems     = {ZnFe$_2$O$_4$},
+  theorylevel = {PBE and PBE0},
+}
+
+@Article{Huang2013,
+  author      = {Jhih-Rong Huang and Ching Cheng},
+  journal     = {Journal of Applied Physics},
+  title       = {Cation and magnetic orders in {MnFe}2O4 from density functional calculations},
+  year        = {2013},
+  month       = {jan},
+  number      = {3},
+  pages       = {033912},
+  volume      = {113},
+  doi         = {10.1063/1.4776771},
+  file        = {:MnFe2O4_comp:},
+  groups      = {Oxides, Property Calculations, Spinels, Fe, Mn},
+  methods     = {Magnetism and structural properties},
+  parameters  = {E_cut = 500 eV, 6x6x6 kpoint, DFT+U approach is employed to cover the strong correlation of the d-orbital electrons},
+  publisher   = {{AIP} Publishing},
+  software    = {VASP},
+  theorylevel = {PBE},
+}
+
+@Article{Izumi2007,
+  author      = {K. Izumi and S. Miyazaki and S. Yoshida and T. Mizokawa and E. Hanamura},
+  journal     = {Physical Review B},
+  title       = {Optical properties of3dtransition-metal-{dopedMgAl}2O4spinels},
+  year        = {2007},
+  month       = {aug},
+  number      = {7},
+  volume      = {76},
+  comment     = {•Paper describes many dopings into MgAl2O4 which may be a good point to look at for balck pigments (if enough light can be absorbed)
+•Investigates how optical responses depend on number of 4d electrons
+•},
+  doi         = {10.1103/physrevb.76.075111},
+  file        = {:3d_TM_spinels_doped:},
+  groups      = {Mg, Oxides, Spinels, Al},
+  publisher   = {American Physical Society ({APS})},
+  synopsis    = {optical responses of Cr-, Co-, and Ni-dopedMgAl2O4 and present optical models for M-doped MgAl2O4 M =Ti, V, Cr, Mn, Co, and Ni},
+  theorylevel = {unrestrictedHartree-Fock UHF},
+}
+
+@Article{Moris2019,
+  author      = {Silvana Moris and Paulina Valencia-G{\'{a}}lvez and Jos{\'{e}} Mej{\'{\i}}a-L{\'{o}}pez and Octavio Pe{\~{n}}a and Patricia Barahona and Antonio Gald{\'{a}}mez},
+  journal     = {Inorganic Chemistry},
+  title       = {(Cu)tet(Cr2{\textendash}{xSnx}){octS}4{\textendash}{ySey} Spinels: Crystal Structure, Density Functional Theory Calculations, and Magnetic Behavior},
+  year        = {2019},
+  month       = {oct},
+  comment     = {•New compositions synthesised
+•Raman peaks assigned
+•magnetic properties show ferromagnetism and antiferromagnetism in these systems
+•Demonstrated that Sn was a diamagnetic cation with an oxidation state of 4+},
+  doi         = {10.1021/acs.inorgchem.9b01853},
+  file        = {:(Cu)tet(Cr2−xSnx)octS4−ySey Spinels.pdf:PDF},
+  groups      = {Sulfides, Selenides, Spinels, S-Cr, S-Spinels, S-Sn, S-Cu, Se-Spinels, Se-Cr, Se-Cu, Se-Sn},
+  methods     = {Geometric properties and effective magnetic moment calculated},
+  parameters  = {force to 0.006ev/Å},
+  publisher   = {American Chemical Society ({ACS})},
+  relevance   = {6},
+  software    = {VASP},
+  synopsis    = {New spinel compositions with raman and magentic measurements},
+  systems     = {CuCr$_1.0$Sn$_1.0$S$_2.1$Se$_1.9$; CuCr$_1.2$Sn$_0.8$S$_2.1$Se$_1.9$,CuCr$_1.3$Sn$_0.7$S$_2.2$Se$_1.8$, and CuCr$_1.5$Sn$_0.5$S$_2.2$Se$_1.8$},
+  theorylevel = {PBE},
+}
+
+@Article{Eliziario2011,
+  author      = {Sayonara A. Elizi{\'{a}}rio and Jeferson M. de Andrade and Severino J.G. Lima and Carlos A. Paskocimas and Luiz E.B. Soledade and P. Hammer and E. Longo and Ant{\^{o}}nio G. Souza and Ieda M.G. Santos},
+  journal     = {Materials Chemistry and Physics},
+  title       = {Black and green pigments based on chromium{\textendash}cobalt spinels},
+  year        = {2011},
+  month       = {sep},
+  number      = {1-2},
+  pages       = {619--624},
+  volume      = {129},
+  comment     = {•Paper shows how the different levels of substitution for Co(Co(2-x)Cr(x))O4 change colour parameters a*, b* and L*
+
+•All 3 compositions show normal spinel structure
+
+•Cr(III) oxidises to Cr(VI) under normal oxidising conditions
+
+•Spinels formed with high short range order at increased temperature
+
+•Variation in inversion degree may account for deviation from vergards law for x = 0.25 sample
+
+•"CoCr2O4 presented a green color
+due to Co2+O4 and Cr3+O6 transitions"
+
+•Co2CrO4 calcined at 900 °C display black colour, lower L*, a* and b* values and higher long range order},
+  doi         = {10.1016/j.matchemphys.2011.05.001},
+  file        = {:black_green_CoCr_Spinels:},
+  groups      = {Oxides, Spinels, Co, Cr, Coloured Pigments},
+  methods     = {-},
+  parameters  = {-},
+  publisher   = {Elsevier {BV}},
+  relevance   = {10},
+  software    = {-},
+  synopsis    = {Different Cr and Co concentrations in chromium-cobalt spinels used to make green and black pigments},
+  systems     = {Co(Co$_{2-x}Cr$_x$)O$_4$},
+  theorylevel = {-},
+}
+
+@Patent{Weber1971,
+  year      = {1971},
+  author    = {Weber, Horst},
+  title     = {Black Fe-Cr oxide pigment composition},
+  comment   = {•Annealing at 1000°C — 1300°C
+
+•"These spinel black colouring substances contain, as a
+divalent component, at least one of the expensive ele
+ments copper and cobalt, which prevents their wide ap
+plication."
+
+•Black iron oxide (FeO·Fe2O3) is not stable in enamels or glazes
+
+•Incorportation of Mn and Cr oxides give black products but instability an issue
+
+•0.1 to 60 micron size which can be tuned by temperature
+
+•High T advantageous for deep black; low T for grey pigments
+
+•below 1000°C red tinge to pigment
+
+•above 1000°C primary particles are too coarse
+
+•"The sodium- and phosphoric compounds form sodium
+phosphate under the process conditions, thereby promot
+ing reaction and crystallization of the iron- and chromium
+compounds."},
+  file      = {:Patent_FeCr_spinel:},
+  groups    = {Oxides, Spinels, Fe, Cr},
+  publisher = {Google Patents},
+  relevance = {9},
+  synopsis  = {Patent for black pigment in the Fe-Cr-O phase space},
+  systems   = {Fe$_2$O$_3$ (0.7-1.0) Cr$_2$O$_3$},
+}
+
+@Patent{Weber1970,
+  year      = {1970},
+  author    = {Weber, Horst},
+  title     = {Black pigments with spinel structure},
+  comment   = {•Calcined to temperatures of 1000°C — 1200°C
+
+•Cu-Cr-Fe oxide system has large particle size of greater than 1 micron
+
+•This work aims for " spinel structure having a
+mean particle size of below 0.5u"
+
+•spinels have great grinding stability
+
+•The pigment composition withstands grinding, is easily dispersed in both aqueous and organic media and is resistant to oxidizing or
+reducing agents and even to concentrated acids and caustic
+solutions.
+
+• Care should be taken that there
+is always an oxidizing atmosphere, in order to avoid re
+duction
+
+• particle sized dependent on temperature},
+  file      = {:Black_Spinel_CrCuFe:},
+  groups    = {Oxides, Spinels, Cr, Fe, Cu, Coloured Pigments},
+  publisher = {Google Patents},
+  synopsis  = {CrCuFe black pigments of spinel crystal structure},
+}
+
+@Article{EPPLER1983,
+  author      = {RICHARD A. EPPLER},
+  journal     = {Journal of the American Ceramic Society},
+  title       = {Inverse Spinel Pigments},
+  year        = {1983},
+  month       = {nov},
+  number      = {11},
+  pages       = {794--801},
+  volume      = {66},
+  comment     = {•},
+  doi         = {10.1111/j.1151-2916.1983.tb10565.x},
+  file        = {:Black_Spinel_CrCuFe:},
+  groups      = {Spinels, Oxides, Coloured Pigments, Ti, Zn, Co, Ni, Fe},
+  methods     = {-},
+  parameters  = {-},
+  publisher   = {Wiley},
+  software    = {-},
+  synopsis    = {Ni containing inverse spinel gives bright green pigment; Fe gives brick-red, orange and brown pigments},
+  systems     = {Zn2TiO4-Co2TiO4-Ni2TiO4, Zn2TiO4-Co2TiO4-Fe2TiO4},
+  theorylevel = {-},
+}
+
+@Article{Melo2013,
+  author    = {D. Melo and F.T.G. Vieira and T.C.C. Costa and L.E.B. Soledade and C.A. Paskocimas and D.M.A. Melo and E. Longo and E.P. Marinho and A.G. Souza and I.M.G. Santos},
+  journal   = {Dyes and Pigments},
+  title     = {Lanthanum cobaltite black pigments with perovskite structure},
+  year      = {2013},
+  month     = {sep},
+  number    = {3},
+  pages     = {459--463},
+  volume    = {98},
+  comment   = {•Polymeric precursor method
+
+•700, 800 and 900 °C for 4 h
+
+•The X-ray diffraction patterns showed the presence of a
+single phase perovskite, changing its structure from rhombohedral to cubic, when calcium was added to
+the lattice
+
+•References [7,9] are of black spinel pigments
+
+•calcium oxide is about 10 times cheaper than
+lanthanum oxide and calcium carbonate is about 4 times cheaper
+than lanthanum carbonate.
+
+•Polymeric precursor method
+
+•1080 °C for 7 h and at 1150 °C for 15 min
+
+•It can be noticed that the values of L* decrease with
+the heat treatment temperature
+
+•L* ranges from 37.33 to 27.94
+
+•the increase of
+temperature and calcium content has favored the formation of the
+more symmetric orthorhombic and cubic phases
+
+•Low T results in CaCO3 formation as shown by XRD and IR},
+  doi       = {10.1016/j.dyepig.2013.03.012},
+  file      = {:anthanum_cobaltite_black_pigments .pdf:PDF},
+  groups    = {Perovskites, La, Ca, Coloured Pigments, Co-Perovskite},
+  publisher = {Elsevier {BV}},
+  systems   = { La$_{1x}$Ca$_x$CoO$_3$},
+}
+
+@InBook{Whitea,
+  author    = {James White},
+  pages     = {41--52},
+  publisher = {Wiley-{VCH} Verlag {GmbH} {\&} Co. {KGaA}},
+  title     = {Complex Inorganic Color Pigments: An Overview},
+  booktitle = {High Performance Pigments},
+  comment   = {•Metal to oxygen ratio discussed as a determining factor in the structure type (Rutile, corrondum/hematite and spinel)
+
+•A nice and short description of processing of CICPs by calcination (650 — 1300°C), milling and washing/blending
+
+•Rutile CICPs typically contain 70 to 90 % TiO2 by pigment weight},
+  doi       = {10.1002/9783527626915.ch5},
+  file      = {:complex-inorganic-color-pigments-an-overview.pdf:PDF},
+  groups    = {Oxides, Spinels, Cr, Co, Cu, Fe, Ti, Ni, Mn, Coloured Pigments},
+  pages     = {41--52},
+  relevance = {10},
+  synopsis  = {Easy-reading review of and introduction to complex inorganic color pigments of titanates, aluminates and chromites/ferrites},
+  systems   = {Titanates, aluminates, chromites and ferrites},
+}
+
+@Article{Ye2012,
+  author    = {Ming Quan Ye and Ai Jun Han and Zhou Shuo Chu and Jian Fei Che and Chen Wang},
+  journal   = {Advanced Materials Research},
+  title     = {Synthesis and Characterization of Mn-Doped Copper Chromite Black Pigments},
+  year      = {2012},
+  month     = {dec},
+  pages     = {71--75},
+  volume    = {602-604},
+  comment   = {•Copper chromite used as black pigment but scarcely studied
+
+•with "very excellent properties such as chemical resistance,
+outdoor durability, light fastness, heat stability and spectrally absorbing selectivity"
+
+•The Mn-doped copper chromite spinel samples were prepared by precursor
+coprecipitation and calcination method.
+
+•No evidence of any Mn2+ which could susbtitute for Cu2+ (although would this actually help with broadband absorption?)
+
+•Tetragonal spinel differs from cubic (pressumably this is caused by JT distortion
+
+•},
+  doi       = {10.4028/www.scientific.net/amr.602-604.71},
+  file      = {:Mn_doped_CuCr.pdf:PDF},
+  groups    = {Spinels, Oxides, Mn, Cu, Cr},
+  publisher = {Trans Tech Publications},
+  synopsis  = {Mn-doped black pigments},
+  systems   = {CuMn$_x$Cr$_{2-x}$O$_4$ (x=0, 0.05, 0.10, 0.15, 0.20 and 0.25) },
+}
+
+@Article{Rondinelli2015,
+  author    = {James M. Rondinelli and Emmanouil Kioupakis},
+  journal   = {Annual Review of Materials Research},
+  title     = {Predicting and Designing Optical Properties of Inorganic Materials},
+  year      = {2015},
+  month     = {jul},
+  number    = {1},
+  pages     = {491--518},
+  volume    = {45},
+  comment   = {•The review is structured as follows: We begin by equipping the reader with the
+relevant optical materials physics, followed by a discussion of the available tools for computing
+optical properties of materials (Section 3). Rather than being exhaustive, we review unique cases
+in which first-principles calculations have been used to understand and predict linear optical
+properties (Section 4) and nonlinear optical (NLO) properties (Section 5) of inorganic materials.
+Finally, we conclude by summarizing future issues for materials researchers.
+
+•The real part of the refractive index n gives
+rise to refraction and reflectivity, whereas the imaginary part κ is responsible for optical absorption
+and attenuation
+
+•All terms can be expanded in a power series. At first
+order, one recovers the dielectric susceptibility of a linear medium, whereas terms of increasing
+order become more important in nonlinear materials
+
+•Calculations on first-principles determination of band structures for MgO, ZnO and CdO oxides (pg. 8)
+
+•"...and thus tuning of the
+order parameter can be exploited to adjust the band gap for solar-cell applications (ref. 68)"
+
+•Nanostructures have dimensions on nanometer scale and are qualitativly different from bulk materials
+
+•2D, 1D and 0D structures discussed
+
+•The band gap of bulk MoS2 is indirect, but it becomes direct if the spatial dimensions are reduced to one MoS2 monolayer
+
+• First-principles calculations
+have demonstrated that only the MoS2 monolayer exhibits a direct band gap, whereas thicker
+MoS2 samples have indirect band gaps
+
+•Quantum confinement in 1D: calculations have demonstrated that the electronic band gap of smalldiameter Si nanowires increases by several electron volts and that the optical absorption spectrum
+is characterized by strong excitonic effects 
+
+•Partial axial strain can seperate photo-generated electrons and holes in small-diameter Si wires
+
+•Calculations also for 0D quantum dots
+
+•However, thermal motion generates atomic vibrations, which need to be accounted for in describing optical properties at finite 
+
+•The interaction of the electrons with the atomic vibrations
+gives rise to the temperature dependence of the band structure and enables optical transitions that
+would otherwise be forbidden by symmetry.
+
+•the zero-point motion corrections to the direct band gap of diamond are as large as 0.6 eV
+
+•Atomic vibrations allow for the breaking of symmetry in bulk-Si allowing for photon absorption
+
+•Atomic vibrations can be detrimental to absorption as for an enegry loss mechanism in nitride lasers and auger recombinations in nitrides and GaAs},
+  doi       = {10.1146/annurev-matsci-070214-021150},
+  file      = {:Pred_Design_Inorganics_Optical:},
+  groups    = {Property Calculations},
+  publisher = {Annual Reviews},
+  relevance = {9},
+  synopsis  = {Review on design methods for optically active materials},
+  systems   = {Si, Ge; III-nitrides; Li-Doped MnCr2O4; CIGS, CZTS; 2d, 1d and 0d semiconducting nanostructures, },
+}
+
+@Article{Graser2018,
+  author    = {Jake Graser and Steven K. Kauwe and Taylor D. Sparks},
+  journal   = {Chemistry of Materials},
+  title     = {Machine Learning and Energy Minimization Approaches for Crystal Structure Predictions: A Review and New Horizons},
+  year      = {2018},
+  month     = {may},
+  number    = {11},
+  pages     = {3601--3612},
+  volume    = {30},
+  doi       = {10.1021/acs.chemmater.7b05304},
+  file      = {:ML_CSP.pdf:PDF},
+  groups    = {Property Calculations},
+  publisher = {American Chemical Society ({ACS})},
+}
+
+@InCollection{Bihlmayer2018,
+  author    = {Gustav Bihlmayer},
+  booktitle = {Handbook of Materials Modeling},
+  publisher = {Springer International Publishing},
+  title     = {Density Functional Theory for Magnetism and Magnetic Anisotropy},
+  year      = {2018},
+  pages     = {1--23},
+  doi       = {10.1007/978-3-319-42913-7_73-1},
+  file      = {:DFT_Magnetism.pdf:PDF},
+  groups    = {Property Calculations},
+}
+
+@Article{Paiva2019,
+  author      = {R. de Paiva and C. de Oliveira and J.R. Kaschny},
+  journal     = {Journal of Solid State Chemistry},
+  title       = {{LiZnN} filled-tetrahedral compound: A first-principles study of the electronic, optical and effective mass properties},
+  year        = {2019},
+  month       = {dec},
+  pages       = {120974},
+  volume      = {280},
+  comment     = {•Dense k-point mesh needed for optical calculations
+
+•The bulk α-LiZnN structure, containing 12 atoms/cell and belonging
+to the 216 : F43m space group → Same space group as spinels 
+
+•The calculated bandgap, Eg ΓΓ, obtained using PBE is about 0.54 eV,
+which is much smaller than the experimental value [6,7]. In contrast to
+such result, the bandgap obtained by nTB-mBJ is 1.92 eV, which is very
+close to the experimental result. In fact, this value is a better estimation
+than previous theoretical work
+
+•Taking into account
+only the results of the nTB-mBJ functional, it can be observed that the
+region below the Fermi energy in the DOS is divided into two subregions},
+  doi         = {10.1016/j.jssc.2019.120974},
+  file        = {:LiZnN:},
+  groups      = {Nitrides, Li-N, Zn-N},
+  methods     = {non-relativistic augmented-spherical wave (ASW) method; full potential linearized augmented plane wave method (FP-LAPW); },
+  publisher   = {Elsevier {BV}},
+  software    = {wien2k},
+  synopsis    = {TB-mBJ and nTB-mBJ used to demonstrated accurate band gap calculations},
+  theorylevel = {TB-mBJ and nTB-mBJ GGA functionals},
+}
+
+@Article{Carta2008,
+  author    = {Daniela Carta and Maria Francesca Casula and Gavin Mountjoy and Anna Corrias},
+  journal   = {Physical Chemistry Chemical Physics},
+  title     = {Formation and cation distribution in supported manganese ferrite nanoparticles: an X-ray absorption study},
+  year      = {2008},
+  number    = {21},
+  pages     = {3108},
+  volume    = {10},
+  abstract  = {Extended X-ray absorption fine structure (EXAFS) and X-ray absorption near-edge structure
+(XANES) techniques at both Fe and Mn K-edges were used to investigate the formation of
+MnFe2O4 nanoparticles embedded in a silica aerogel matrix as a function of calcination
+temperature (at 450, 750 and 900 1C). Up to 450 1C, two separated highly-disordered phases of
+iron and manganese are present. With increasing the temperature (to 750 and 900 1C), the
+structure of aerogel nanoparticles becomes progressively similar to that of the spinel structure
+MnFe2O4 (jacobsite). Quantitative determination of cations distribution in the spinel structure
+shows that aerogels calcined at 750 and 900 1C have a degree of inversion i = 0.20. A pure
+jacobsite sample synthesised by co-precipitation and used as a reference compound shows a much
+higher degree of inversion (i = 0.70). The different distribution of iron and manganese cations in
+the octahedral and tetrahedral sites in pure jacobsite and in the aerogels can be ascribed to partial
+oxidation of Mn2+ to Mn3+ in pure jacobsite, confirmed by XANES analysis, probably due to
+the synthesis conditions.},
+  comment   = {•Aerogels calcined at 750 and 900 1C have a degree of inversion i = 0.20
+
+•A pure
+jacobsite sample synthesised by co-precipitation and used as a reference compound shows a much
+higher degree of inversion (i = 0.70)
+
+•partial
+oxidation of Mn2+ to Mn3+ in pure jacobsite, confirmed by XANES analysis, probably due to
+the synthesis conditions
+
+• aerogels containing 10 wt% MnFe2O4/(MnFe2O4 + SiO2) calcined in
+argon at increasing temperatures (450, 750 and 900 1C) 
+
+•x-ray absorption
+fine structure (EXAFS) and X-ray absorption near-edge
+structure (XANES) spectroscopies
+
+•EXAFS has been recently found to be a useful tool
+to determine the cation distribution in ferrite spinel
+
+•The samples were prepared by a sol–gel process recently
+developed for CoFe2O4–SiO2 highly porous aerogel nanocomposites.[29]
+
+•In the sample after calcination at 750 1C for
+2 h peaks corresponding to the jacobsite phase38 appear
+superimposed on the amorphous silica halo. The peaks
+become more intense with the increase of calcination time
+and temperature.
+
+•Only Fe3+ but mix of Mn2+ and Mn3+ in jacobsite material measured by comparision with gamma-Fe2O3
+
+•Mn oxides shows that the jacobsite edge
+position is slightly higher than for MnO and lower than for
+Mn3O4 showing mix of Mn2+ and Mn3+ in Jacobsite material
+
+•Fe3+ exclusively in all other samples
+
+•The XANES of AFe_450, A_ae, A_450 are similar to
+each other and to ferrihydrite.
+
+•Movement of Fe to tetrahedral sites at higher temperatures
+
+•At the Mn edge, there is a
+difference in the edge position of all the aerogels and pure
+jacobsite
+
+•As the temperature increases, A_750_2h,
+A_750_20h and A_900 become more similar to pure jacobsite indicating a progressive increase in the amount of Mn3+ at higher temperature
+
+•oscillation frequencies and
+amplitudes of AFe_450, A_ae and A_450 look very similar to those of ferrihydrite (a poorly
+crystallised phase of iron(III) oxyhydroxide), the EXAFS
+spectrum of which has been reported in ref. 39
+
+•This is an
+indication that AFe_450, A_ae and A_450 are very poorly
+crystalline systems.
+
+•The oscillations of A_750_20h and A_900 arrive up
+to high k and are very similar to those of the pure jacobsite
+
+•differences in the
+FTs can be ascribed to a different tetrahedral and/or octahedral site occupation of the cations in the same jacobsite spinel
+structure.
+
+•At the Fe edge, the first peak near 2 Â is due to two Fe–O
+bond distances, FeA–O (1.89 A˚ ) and FeB–O (2.04 A˚ ), corresponding to the tetrahedral sites and the octahedral sites
+respectively. 
+
+•Inversion parameter i = 0.20 for 750 and 900 °C samples
+
+•After heat treatment at 750 °C for 2 h, the two separate
+phases of iron and manganese are partially converted into
+nanocrystalline manganese ferrite. The conversion is complete
+as the heating at 750 °C is extended up to 20 h or increased up
+to 900 °C},
+  doi       = {10.1039/b800359a},
+  file      = {:MnFe2O4_Cation_Distribution.pdf:PDF},
+  groups    = {Oxides, Coloured Pigments, Spinels, Mn, Fe},
+  publisher = {Royal Society of Chemistry ({RSC})},
+  relevance = {10},
+  synopsis  = {Formation of nanoparticles as a function of calcination temperature},
+  systems   = {MnFe$_2$O$_4$},
+}
+
+@Article{Dondi2013,
+  author    = {Michele Dondi and Chiara Zanelli and Matteo Ardit and Giuseppe Cruciani and Luciana Mantovani and Mario Tribaudino and Giovanni B. Andreozzi},
+  journal   = {Ceramics International},
+  title     = {Ni-free, black ceramic pigments based on Co{\textemdash}Cr{\textemdash}Fe{\textemdash}Mn spinels: A reappraisal of crystal structure, colour and technological behaviour},
+  year      = {2013},
+  month     = {dec},
+  number    = {8},
+  pages     = {9533--9547},
+  volume    = {39},
+  comment   = {•cation distribution is governed by Co2+ occupancy of tetrahedrally-coordinated site T and Cr3+
+occupancy of octahedrally-coordinated site M, with Mn3+ hosted at M, while Mn2+ and Fe3+ are distributed
+over both sites
+
+•Three different pathways can give rise to excellent black
+pigments: 
+a) strongly disordered spinels having an inversion parameter i ∼ 0.2; 
+b) moderately disordered
+spinels, free of Mn3+, with i < 0.1
+c) apparently ordered and normal spinels halfway from cobalt chromite
+and cobalt ferrite
+
+• A completely random distribution between T and M sites occurs when i = 2/3; therefore, a spinel with
+0 < i < 2/3 is "largely normal" while another one with 2/3 < i < 1 is "largely inverse" [8-9]
+
+•The best
+technological behaviour in ceramic glazes is that of Co1-xMnxCr2-yFeyO4 compositions where 0.4<x<1.0 and
+0.14<y<0.72 with some nickel occasionally present [33-36]
+
+•The main goal of the present study is to disclose the best composition in the Co-Cr-Fe-Mn system by
+reappraising crystal structure, optical properties and ceramic behaviour of black spinels. Such an approach
+is expected to shed light on pigment-glaze interactions affecting the final crystallo-chemical features after
+the ceramic process.
+
+•The cations
+expected to occur in the system under investigation present an affinity for the sixfold-coordinated site in
+decreasing order: Cr3+ > Mn3+ ~ Ni3+ ~ Co3+ > Co2+ ~ Fe2+
+
+•In order to get the purest black colour, minimal values of L* and C* (a*^2+b*^2)^0.5 are the
+target
+
+•All the analyzed powders are exclusively composed of one phase with spinel structure-type, with the only
+exception of samples 1, 3, and 10, where an eskolaite–hematite solid solution was detected (ranging from
+7 to 18%, see Table 3). 
+
+•1, 3 and 10 compositions estimates from literature search not from analysis
+
+•Such spectra are somewhat interpreted as due
+to relaxation phenomena, i.e., a magnetic behaviour which is manifested by nanosized iron oxide species
+(i.e. clusters or nanoparticles ≤ 10 nm), but this explanation cannot apply to the present case because the
+spinel samples here investigated have crystallite size estimated between 85 and 151 nm
+
+• An
+alternative explanation is that the Fe is increasingly incorporated but not homogeneously distributed into
+the spinel structure, this leading to a number of local arrangements richer in Fe and diluted in a spinel
+matrix poorer in Fe
+
+•The
+additional raman peaks are due to the interaction of coexisting cations in the T and M sites, each of them with an
+effect on the Raman spectrum, in solid solutions or in the presence of cation site inversion
+
+• Another effect of cation disorder is peak
+broadening [58, 59], which also occurs when small sized particles are present
+
+•The position of the 660 cm-1 peak was related to the reciprocal of the
+mass square root of the cation in the octahedral site 
+
+•Manganese is present either as Mn2+ partitioning over T and M sites, or Mn3+
+occupying only the M site by 0.12-1.0 atoms per formula unit (apfu), or both
+
+•Iron is present essentially as Fe3+, as indicated by the Mössbauer spectroscopy, being preferentially
+hosted at the octahedrally-coordinated site
+
+•. Unexpectedly, two samples (20 and 21) do not match this crystal chemical
+pattern: as in these spinels the octahedrally-coordinated M site is saturated by trivalent chromium and
+iron ions, only divalent ions should be accommodated at the tetrahedrally-coordinated T site
+
+•Firing under reducing conditions can reduce but not remove the eskolaite-hematite secondary phase of  samples 20 and 21
+
+•Partitioning of Fe and Mn over the two sites of spinel is stressed when the nominal sum Cr+Fe+Mn exceeds
+2 apfu. remarkable degree of disorder found in the 10 samples that fit this condition
+
+•As-synthesized pigments exhibit a deep black colour with very low
+brightness, 38.6 < L*as < 40.5, and chroma, 0.2 < C*as < 1.2
+
+•the best
+behaviour is on average that of samples 12, 11 and 6 which display colour coordinates (28 < L*av < 30
+and C*av ≤ 0.6) matching those of the best industrially-manufactures spinels, including Ni-bearing
+formulations
+
+•Contour plots were drawn in order to disclose the best
+pigment compositions by contrasting average chroma (C*av) with crystal chemistry of spinels
+
+•The best high temperature (>1200°C) behaviour relates to a small field excluding both low and high Co2+ and Cr3+ in T and M sites respectively
+
+•Overall, the best behaviour corresponds to a crystal chemistry where
+the tetrahedrally-coordinated site is mainly occupied by Co2+ (0.4-0.8 apfu) together with Mn2+ (0.1-0.5)
+and Fe3+ (0.1-0.25), and the octahedrally-coordinated site is predominantly occupied by Cr3+ (0.9-1.5 apfu)
+together with Fe3+ (0.3-1.0), Mn3+ (0.1-0.5) and Mn2+ (≤0.21).
+
+•Three different pathways are envisaged to get deep black shades:
+a) strongly disordered spinels, characterized by very broad and hardly resolvable Raman peaks and
+occurrence of magnetic sextets in Mössbauer spectra, hosting at least 7 transition metal cations and
+having an inversion parameter i ∼ 0.2 (e.g., sample 12);
+b) moderately disordered spinels, exhibiting several Raman peaks beyond the Group Theory prediction but
+a typical paramagnetic Mössbauer spectrum, being free of Mn3+ and having an inversion parameter i <
+0.1 (e.g., sample 11);
+c) apparently ordered and normal spinels halfway from cobalt chromite and cobalt ferrite showing clues of
+disorder by extra peaks in well resolved Raman spectra and predominance of magnetic absorption in
+Mössbauer spectra (e.g., sample 6).
+
+•It occurred in spinels exhibiting a high amount of Mn3+: 0.64 apfu in the
+sample 13 or 1.0 apfu for samples 5 and 8 (Table 1). However, the occurrence of trivalent manganese is not
+detrimental by itself: for example in the sample 12, displaying the best technological behaviour, VIMn3+ is
+as high as 0.33 apfu
+
+•Mn reaction evolves gases and lowers the melt viscocity 
+
+•In fact, trivalent manganese in spinel could be unstable in contact with
+glaze during ceramic firing; its reduction may lead to oxygen evolution: 2 MMn3+ + 2 e- → 2 MMn2+ + VO,
+implying the formation of oxygen vacancies
+
+•Increasing the amount of spinel dissolved in the glaze causes a lowering of glaze
+viscosity 
+
+•In contrast, the glazes containing samples 6, 11 and 12
+have their viscosity lowered by no more than 1%, so not enough to cause bloating
+
+• An important aspect, disclosed here for the first time in
+ceramic pigments, is that the spinel lattice parameter turns systematically smaller after the ceramic
+processing (Table 6).
+
+•It implies that the concept
+of resistance to corrosion of spinel involves the ability to adjust its composition without losing colouring
+strength
+
+•Although Al, An and Mg are associated with glazes the only cation with a small radius that is abundant in glazes and at the
+same time can be readily accommodated in both sites of the spinel lattice is the Al3+ 
+
+•the smaller unit cell
+parameter of spinels after ceramic firing (aaf) could be justified by an Al3+ substitution after, e.g., Mn3+
+and/or Fe3+ at the octahedral site
+
+•The
+following ranges are recommended to get the best black pigments: Co2+ (0.4-0.8 apfu) together with Mn2+
+(0.1-0.5) and Fe3+ (0.1-0.25) at T site; Cr3+ (0.9-1.5 apfu) together with Fe3+ (0.3-1.0), Mn3+ (0.1-0.5) and
+Mn2+ (≤0.21) at M site.},
+  doi       = {10.1016/j.ceramint.2013.05.072},
+  file      = {:Ni-free-Co-Cr-Fe-Mn-spinels.pdf:PDF},
+  groups    = {Oxides, Spinels, Co, Cr, Fe, Mn},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Xiang2017,
+  author      = {C. Xiang and J. X. Zhang and Y. Lu and D. Tian and C. Peng},
+  journal     = {Materiali in tehnologije},
+  title       = {Electronic and optical properties of the spinel oxides {MgxZn}1-{xAl}2O4 by first-principles calculations},
+  year        = {2017},
+  month       = {oct},
+  number      = {5},
+  pages       = {735--743},
+  volume      = {51},
+  abstract    = {The structural, electronic and optical properties of perfect MgxZn1-xAl2O4 oxides have been studied by first-principles
+calculations within the generalized gradient approximation of the density functional theory. It is interesting to note that a linear
+increase of cell volume (V) with increasing doping amount (x) occurs. The band gap increases in the series from 3.851 eV to
+5.079 eV, which is in agreement with theoretical and experimental values. In addition, a blue shift of the absorption shoulder is
+observed in the UV region with the increase of x, as predicted by the imaginary part 2() of the dielectric function at zero
+frequency as well as bandgap. This can be explained by the threshold of the electronic transition from O-2p to the empty Mg-3p
+electron states due to the substitution of Zn with Mg. The real part 1() of the dielectric function located at zero frequency has
+a square fit relationship with refractive index n(0), which is 1.71–1.77 from x=0 to x=1. The energy-loss function shows that the
+replacement of Zn by Mg is responsible for a decrease in the intensity of the sharp peaks. The reflectivity shows that a higher
+coefficient of reflectivity (R(0)) at zero frequency corresponds to a smaller bandgap.},
+  comment     = {•substitution of
+Zn with Mg is responsible for the formation of the
+pseudo-cubic, spinel-type structure
+
+•Zn-4s and Al-3p states
+play the main role in the conduction band above the
+Fermi level (between 3.8 eV and 8.2 eV) for x=0, while
+conduction band is mainly created by Mg-3p states for
+x=1
+
+•only electronic
+polarization is considered as the dielectric function, and
+phonon contributions to the optical is not taken into
+account},
+  doi         = {10.17222/mit.2016.296},
+  file        = {:MgZnAlO-Spinel.pdf:PDF},
+  groups      = {Property Calculations, Oxides, Spinels, Mg, Zn, Al},
+  parameters  = {USPP},
+  publisher   = {Institute of Metals and Technology},
+  relevance   = {10},
+  software    = {CASTEP},
+  synopsis    = {Mg substitution of Zn in spinel and calculation of electronic and optical properties by DFT},
+  systems     = {Mg$_x$Zn$_{1-x}$Al$_2$O$_4$ },
+  theorylevel = {PBE, The Engel-Vosko scheme (GGA+U), BFGS optimisation, U = 1 eV, convergence tolerance of energy charge, maximum force and stress were1×10–5 eV, 0.03 eV/nm, and 0.05 GPa, Ecut = 340 eV, 4 x 4 x 4 k-point mesh},
+}
+
+@Article{Ozel2003,
+  author    = {Emel Ozel and Servet Turan},
+  journal   = {Journal of the European Ceramic Society},
+  title     = {Production and characterisation of iron-chromium pigments and their interactions with transparent glazes},
+  year      = {2003},
+  month     = {nov},
+  number    = {12},
+  pages     = {2097--2104},
+  volume    = {23},
+  abstract  = {In this study, production and characterisation of pigments by using less expensive raw materials such as limonite and chromite
+was undertaken. The resulting pigments were characterised by using X-ray diffraction (XRD) and UV-Vis spectrophotometer. The
+colour of glazed tiles containing 3 wt.% pigment change from dark brown to light brown depending on the calcination temperature
+and limonite content. With pigments prepared with 50% limonite content calcined at 1250 C, the chocolate brown colour was
+obtained corresponding to the commercial brown pigments. An iron-chromium black pigment was synthesised from a mixture of
+pure chromium (III) oxide (Cr2O3) and iron (III) oxide (Fe2O3) powders and was used to determine possible interactions between a
+pigment and a transparent glaze. The interactions were studied using a scanning electron microscope (SEM) attached with an
+energy dispersive X-ray spectrometer (EDX). The results showed that black pigment particles give brown colour to the glaze. EDX
+analysis on pigment crystals embedded in the glaze clearly showed that Zn and Mg diffused into pigment crystals and caused a
+change of colour from black to brown.},
+  comment   = {•The most important brown and black pigments used
+in ceramic coatings are the iron-chromite spinels and
+synthesised from mixture of iron oxide and chromium
+oxide by calcination above 1000 °C.
+
+•When limonite content or calcination temperature
+decreases, the colour of glazes visually changes from
+dark brown to light brown.},
+  doi       = {10.1016/s0955-2219(03)00036-0},
+  groups    = {Oxides, Spinels, Cr, Fe},
+  publisher = {Elsevier {BV}},
+  relevance = {8},
+  synopsis  = {Cheap raw materials to make Fe-Cr pigments},
+  systems   = {FeO-Cr$_2$O$_3$},
+}
+
+@InCollection{Murdoch2008,
+  author    = {Stephen H. Murdoch and Richard A. Eppler},
+  booktitle = {Materials {\&} Equipment/Whitewares: Ceramic Engineering and Science Proceedings, Volume 10, Issue 1/2},
+  publisher = {John Wiley {\&} Sons, Inc.},
+  title     = {The Interaction of Ceramic Pigments with Glazes},
+  year      = {2008},
+  month     = {mar},
+  pages     = {81--86},
+  comment   = {•Ceramic flux: a substance which lowers the melting point and promotes glass formation in ceramic materials and glasses
+•Secondary flux: a substance which acts as a ceramic flux in combination with other materials or at higher temperatures
+
+•Zn containing glazes react with pigments forming brown Zn-spinel pigments},
+  doi       = {10.1002/9780470310526.ch13},
+  groups    = {Oxides, Spinels, Cr, Fe, Zn},
+  relevance = {8},
+  synopsis  = {This paper explores the effects of glazes containing large concentrations of zinc oxide on inorganic pigments dispersed therein},
+  systems   = {Zn(Fe,Cr)$_2$O$_4$},
+}
+
+@Article{Durikovic2007,
+  author    = {Roman {\v{D}}urikovi{\v{c}} and Toma{\v{s}} {\'{A}}go{\v{s}}ton},
+  journal   = {Open Physics},
+  title     = {Prediction of optical properties of paints},
+  year      = {2007},
+  month     = {jan},
+  number    = {3},
+  volume    = {5},
+  abstract  = {The field of predictive rendering concerns itself with those methods of image synthesis
+which yield results that do not only look real, but are also radiometrically correct renditions of
+nature, i.e., which are accurate predictions of what a real scene would look like under given lighting
+conditions. A real coating consists of pigments, effect pigments, clear lacquer and glaze. A novel
+and unique combination of real parameters that are commonly measured in the industry and a
+theoretical reflectance model consisting of measurable parameters is required. Here, the authors
+design perception parameters and put them into well known surface reflection functions such as He
+and Torrance. The original contributions are the study of the sub-surface scattering of real paint
+and the prediction of its appearance in rendered images by the proposed model of light reflection
+beneath the paint surface.},
+  comment   = {•"Based on an object’s appearance, we can deduce of what materials an object consists."
+
+•""Industry needs to
+solve the inverse problem — i.e., based on the materials in surface paints, deduce the
+appearance.
+
+•The quantification of appearance by the paint and coatings industries has resulted
+in a set of appearance measurement standards: tristimulus colorimetry, gloss and haze.
+
+•Tristimulus colorimetry is essentially a measure of diffuse reflection color
+
+•Gloss is a measure of the magnitude of the specular reflection, and haze, also called glitter,
+captures the width of the specular lobe.
+
+•Gloss is defined by the American Society for Testing and Materials (ASTM) to be “the
+angular selectivity of reflectance, involving surface-reflected light, responsible for the degree to which reflected highlights or images of objects may be seen as superimposed on
+a surface”
+
+•"Pearlescent paint combines colored particles with small flakes of mica coated with
+thin layers of metal oxide which both reflect and transmit incident light."},
+  doi       = {10.2478/s11534-007-0025-6},
+  file      = {:Predict_optical_paints.pdf:PDF},
+  groups    = {Oxides},
+  publisher = {Walter de Gruyter {GmbH}},
+  relevance = {4},
+  synopsis  = {Computational modelling of applied pigmnent colours},
+  systems   = {N/A},
+}
+
+@Article{Adamo2013,
+  author    = {Carlo Adamo and Denis Jacquemin},
+  journal   = {Chem. Soc. Rev.},
+  title     = {The calculations of excited-state properties with Time-Dependent Density Functional Theory},
+  year      = {2013},
+  number    = {3},
+  pages     = {845--856},
+  volume    = {42},
+  abstract  = {In this tutorial review, we show how Time-Dependent Density Functional Theory (TD-DFT) has become a
+popular tool for computing the signatures of electronically excited states, and more specifically, the
+properties directly related to the optical (absorption and emission) spectra of molecules. We discuss
+the properties that can be obtained with widely available programs as well as how to account for the
+environmental effects (solvent and surfaces) and present recent applications in these fields. We next
+expose the transformation of the TD-DFT results into chemically intuitive parameters (colours as well as
+charge-transfer distances). Eventually, the non-specialised reader will find a series of advices and
+warnings necessary to perform her/his first TD-DFT calculations.},
+  comment   = {•Interestingly this
+model was originally viewed as unable to describe chemical
+bonds, but continuous improvements of the exchange–correlation
+functionals2,3 – the only approximated term in DFT – allowed DFT
+to become a blockbuster in both chemistry and physics
+
+•DFT should be extended to account for the
+time-dependent (TD) nature of the electromagnetic waves
+
+•Vertical absorption is, by far, the most commonly computed data in TD-DFT, as it
+does not require the knowledge of the EES density nor energy
+gradient.
+
+•The adiabatic contribution is simply the difference of energies
+of the two states in their respective minimum, that is
+
+•The advantage of
+computing the 0–0 energies is that well grounded comparisons
+with experiments can be made.
+
+•},
+  doi       = {10.1039/c2cs353
